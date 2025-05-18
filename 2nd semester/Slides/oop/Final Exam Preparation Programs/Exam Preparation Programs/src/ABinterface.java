@@ -1,0 +1,3 @@
+ interface ABinterface {
+    double calculateArea();
+}
